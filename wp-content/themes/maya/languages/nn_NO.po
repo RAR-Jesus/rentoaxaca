@@ -1,0 +1,3199 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Maya\n"
+"POT-Creation-Date: 2015-03-01 11:32+0100\n"
+"PO-Revision-Date: 2015-03-01 11:57+0100\n"
+"Last-Translator: \n"
+"Language-Team: unCommons <team@uncommons.pro>\n"
+"Language: Nynorsk\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.5\n"
+"X-Poedit-KeywordsList: __;_e;_x\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:19
+msgid "Oops!.. Something went wrong"
+msgstr ""
+
+#: ../404.php:33
+msgid "The page you are looking for could not be found."
+msgstr ""
+
+#: ../404.php:34
+msgid "Use the search field below to find the right road."
+msgstr ""
+
+#: ../404.php:40 ../inc/theme-functions.php:2137
+msgid "Search"
+msgstr ""
+
+#: ../archive.php:27
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:30
+msgid "F Y"
+msgstr ""
+
+#: ../archive.php:33
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:33
+msgid "Y"
+msgstr ""
+
+#: ../archive.php:36
+msgid "Standard Posts"
+msgstr ""
+
+#: ../archive.php:39 ../archive.php:44
+msgid "Archives"
+msgstr ""
+
+#: ../archive.php:72 ../author.php:44 ../category.php:42 ../index.php:42
+#: ../page-blog1.php:95 ../page-blog1.php:144 ../page-blog2.php:86
+#: ../page-blog2.php:135 ../page-blog3.php:100 ../page-blog4.php:100
+#: ../page-blog5.php:94 ../search.php:43 ../tag.php:42
+#: ../taxonomy-post_format.php:57 ../taxonomy-un-portfolio-categories.php:46
+#: ../inc/theme-functions.php:526 ../inc/theme-functions.php:625
+#: ../inc/theme-functions.php:663
+msgid "Read More"
+msgstr ""
+
+#: ../author.php:81
+msgid "The author has not published posts yet!"
+msgstr ""
+
+#: ../comments.php:19
+msgid "Comments"
+msgstr ""
+
+#: ../comments.php:28
+msgid "Reply"
+msgstr ""
+
+#: ../comments.php:39
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:40
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:41
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:47
+msgid "Comments are closed."
+msgstr ""
+
+#: ../header.php:174
+msgid "Get in touch"
+msgstr ""
+
+#: ../header.php:178
+msgid "Follow us"
+msgstr ""
+
+#: ../index.php:17
+msgid "Blog"
+msgstr ""
+
+#: ../page-contact.php:78 ../inc/theme-functions.php:903
+msgid "Select a CF7's Form in the section options"
+msgstr ""
+
+#: ../search.php:18
+#, php-format
+msgid "Search Results for:  # %s"
+msgstr ""
+
+#: ../search.php:71
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../taxonomy-post_format.php:20
+msgid "Videos"
+msgstr ""
+
+#: ../taxonomy-post_format.php:23
+msgid "Audio"
+msgstr ""
+
+#: ../taxonomy-post_format.php:26
+msgid "Galleries"
+msgstr ""
+
+#: ../taxonomy-post_format.php:29
+msgid "Standard"
+msgstr ""
+
+#: ../framework/bootstrap.php:88 ../framework/classes/option.php:364
+#: ../framework/classes/option.php:389
+msgid "Successful"
+msgstr ""
+
+#: ../framework/bootstrap.php:99
+msgid "Unauthorized function"
+msgstr ""
+
+#: ../framework/classes/metabox.php:35
+msgid "[Development Mode] "
+msgstr ""
+
+#: ../framework/classes/metabox.php:564
+#: ../framework/classes/metabox/alchemy.php:493
+msgid "Remove"
+msgstr ""
+
+#: ../framework/classes/metabox.php:586
+#: ../framework/classes/metabox/alchemy.php:515
+msgid "Add More"
+msgstr ""
+
+#: ../framework/classes/option.php:47 ../framework/classes/option.php:48
+msgid "Vafpress Options"
+msgstr ""
+
+#: ../framework/classes/option.php:61
+msgid "Option Key is required"
+msgstr ""
+
+#: ../framework/classes/option.php:63
+msgid "Template Array/File is required"
+msgstr ""
+
+#: ../framework/classes/option.php:65
+msgid "Page Slug is required"
+msgstr ""
+
+#: ../framework/classes/option.php:167
+msgid ""
+"Development Mode is Active, options' values won't be saved into database."
+msgstr ""
+
+#: ../framework/classes/option.php:306
+msgid "Can not be empty"
+msgstr ""
+
+#: ../framework/classes/option.php:331
+msgid "Invalid data"
+msgstr ""
+
+#: ../framework/classes/option.php:394
+msgid "Unverified Access"
+msgstr ""
+
+#: ../framework/classes/option.php:460
+msgid "Invalid template supplied"
+msgstr ""
+
+#: ../framework/classes/option.php:473
+msgid "Utility"
+msgstr ""
+
+#: ../framework/classes/option.php:479
+#: ../framework/views/option/restore.php:13
+msgid "Restore Default"
+msgstr ""
+
+#: ../framework/classes/option.php:488
+msgid "Export/Import"
+msgstr ""
+
+#: ../framework/classes/shortcodegenerator.php:260
+msgid "Insert"
+msgstr ""
+
+#: ../framework/classes/shortcodegenerator.php:261
+#: ../woocommerce/myaccount/my-orders.php:75
+msgid "Cancel"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:359
+msgid "Saving successful"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:370
+msgid "Saving failed"
+msgstr ""
+
+#: ../framework/classes/option/control/set.php:376
+msgid "No changes made"
+msgstr ""
+
+#: ../framework/config/messages.php:13
+msgid "Value needs to be Alphabet"
+msgstr ""
+
+#: ../framework/config/messages.php:14
+msgid "Value needs to be Alphanumeric"
+msgstr ""
+
+#: ../framework/config/messages.php:15
+msgid "Value needs to be Numeric"
+msgstr ""
+
+#: ../framework/config/messages.php:16
+msgid "Value needs to be Valid Email"
+msgstr ""
+
+#: ../framework/config/messages.php:17
+msgid "Value needs to be Valid URL"
+msgstr ""
+
+#: ../framework/config/messages.php:18
+msgid "Length needs to be less than {0} characters"
+msgstr ""
+
+#: ../framework/config/messages.php:19
+msgid "Length needs to be more than {0} characters"
+msgstr ""
+
+#: ../framework/config/messages.php:20
+msgid "Select no more than {0} items"
+msgstr ""
+
+#: ../framework/config/messages.php:21
+msgid "Select at least {0} items"
+msgstr ""
+
+#: ../framework/config/messages.php:22
+msgid "This is required"
+msgstr ""
+
+#: ../framework/config/messages.php:29
+msgid "Import succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../framework/config/messages.php:30
+msgid "Import failed"
+msgstr ""
+
+#: ../framework/config/messages.php:31
+msgid "Export succeed, copy the JSON formatted options"
+msgstr ""
+
+#: ../framework/config/messages.php:32
+msgid "Export failed"
+msgstr ""
+
+#: ../framework/config/messages.php:33
+msgid "Restoration succeed, option page will be refreshed.."
+msgstr ""
+
+#: ../framework/config/messages.php:34
+msgid "Options identical to default"
+msgstr ""
+
+#: ../framework/config/messages.php:35
+msgid "Restoration failed"
+msgstr ""
+
+#: ../framework/config/messages.php:43
+msgid "Select option(s)"
+msgstr ""
+
+#: ../framework/config/messages.php:45
+msgid "Select an Icon"
+msgstr ""
+
+#: ../framework/data/sources.php:229
+msgid "No Icon"
+msgstr ""
+
+#: ../framework/views/control/upload.php:4
+msgid "Choose File"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:4
+#: ../framework/views/option/impexp.php:14
+msgid "Import"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:7
+msgid "Import Options"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:27
+#: ../framework/views/option/impexp.php:37
+msgid "Export"
+msgstr ""
+
+#: ../framework/views/option/impexp.php:30
+msgid "Export Options"
+msgstr ""
+
+#: ../framework/views/option/restore.php:4
+msgid "Restore Default Options"
+msgstr ""
+
+#: ../framework/views/option/restore.php:7
+msgid "Restore options to initial default values."
+msgstr ""
+
+#: ../framework/views/option/restore.php:14
+msgid ""
+"** Please make sure you have already make a backup data of your current "
+"settings. Once you click this button, your current settings will be gone."
+msgstr ""
+
+#: ../framework/views/option/set.php:69 ../framework/views/option/set.php:84
+msgid "Save Changes"
+msgstr ""
+
+#: ../framework/views/option/set.php:70 ../framework/views/option/set.php:85
+msgid "Saving Now"
+msgstr ""
+
+#: ../framework/views/option/set.php:93
+#, php-format
+msgid ""
+"This option panel is built using <a href=\"http://vafpress.com/vafpress-"
+"framework\">Vafpress Framework %s</a> powered by <a href=\"http://vafpress."
+"com\">Vafpress</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:161 ../inc/plugins.php:59
+msgid "Install Required Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:162 ../inc/plugins.php:60
+msgid "Install Plugins"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:163 ../inc/plugins.php:61
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:164
+msgid "Something went wrong."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:175 ../inc/plugins.php:73
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:176
+msgid "Return to the dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:177
+#: ../inc/class-tgm-plugin-activation.php:1945 ../inc/plugins.php:74
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:178
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:179
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:180
+msgid "Dismiss this notice"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:534
+#: ../inc/class-tgm-plugin-activation.php:2162
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1169
+msgid "Private Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1172
+msgid "Pre-Packaged"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1177
+msgid "WordPress Repository"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Required"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1180
+msgid "Recommended"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1183
+msgid "Not Installed"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1185
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1290
+#: ../inc/class-tgm-plugin-activation.php:1398
+msgid "Install"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1312
+#: ../inc/class-tgm-plugin-activation.php:1399
+msgid "Activate"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1361
+#, php-format
+msgid ""
+"No plugins to install or activate. <a href=\"%1$s\" title=\"Return to the "
+"Dashboard\">Return to the Dashboard</a>"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1377
+msgid "Plugin"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1378
+msgid "Source"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1379
+#: ../inc/metaboxes/sections.php:324 ../inc/posttypes/un-sections.php:87
+msgid "Type"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1380
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Status"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1928
+msgid "Install package not available."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1929
+#, php-format
+msgid "Downloading install package from <span class=\"code\">%s</span>&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1930
+msgid "Unpacking the package&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1931
+msgid "Installing the plugin&#8230;"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1932
+msgid "Plugin install failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1933
+msgid "Plugin installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:1944
+msgid "Plugin activation failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2058
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#: ../inc/class-tgm-plugin-activation.php:2068
+msgid "Show Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2059
+#: ../inc/class-tgm-plugin-activation.php:2068
+msgid "Hide Details"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2060
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2061
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2065
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2066
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2068
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2069
+msgid "All installations have been completed."
+msgstr ""
+
+#: ../inc/class-tgm-plugin-activation.php:2070
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: ../inc/options.php:18
+msgid "Are you searching for the Home Options?"
+msgstr ""
+
+#: ../inc/options.php:19
+msgid "With Maya you can create many different Homepages!"
+msgstr ""
+
+#: ../inc/options.php:20
+msgid "Create new Page"
+msgstr ""
+
+#: ../inc/options.php:21
+msgid "How to"
+msgstr ""
+
+#: ../inc/options.php:22
+msgid ""
+"1. Create a new page and select the <b>Homepage</b> Template.<br> 2. Now you "
+"will see many options to appear on the bottom:"
+msgstr ""
+
+#: ../inc/options.php:35
+msgid "Got you a problem using the theme?"
+msgstr ""
+
+#: ../inc/options.php:36
+msgid "Don't worry! Here there's all you need."
+msgstr ""
+
+#: ../inc/options.php:38
+msgid "1. Try to follow our Guide"
+msgstr ""
+
+#: ../inc/options.php:39
+msgid "Go to the Guide"
+msgstr ""
+
+#: ../inc/options.php:41
+msgid "2. Take a look in our Install Tutorial"
+msgstr ""
+
+#: ../inc/options.php:49
+msgid "3. Ask our help!"
+msgstr ""
+
+#: ../inc/options.php:50
+msgid "Ask Support"
+msgstr ""
+
+#: ../inc/options.php:63
+msgid "Theme Options"
+msgstr ""
+
+#: ../inc/options.php:70
+msgid "Help"
+msgstr ""
+
+#: ../inc/options.php:90
+msgid "General Setting"
+msgstr ""
+
+#: ../inc/options.php:98
+msgid "Brand"
+msgstr ""
+
+#: ../inc/options.php:100
+msgid "Make Maya your personal Theme"
+msgstr ""
+
+#: ../inc/options.php:107
+msgid "Logo Dark"
+msgstr ""
+
+#: ../inc/options.php:108 ../inc/options.php:116
+msgid ""
+"Tip: for the best result use a 150px X 40px image (.png with transparent "
+"background)"
+msgstr ""
+
+#: ../inc/options.php:115
+msgid "Logo Light"
+msgstr ""
+
+#: ../inc/options.php:123
+msgid "Logo Sticky"
+msgstr ""
+
+#: ../inc/options.php:124
+msgid ""
+"Tip: for the best result use a 40 X 40px image with dark colors (.png with "
+"transparent background)"
+msgstr ""
+
+#: ../inc/options.php:131
+msgid "Favicon"
+msgstr ""
+
+#: ../inc/options.php:132
+msgid ""
+"Tip: for the best result use a 16px X 16px image (.png with transparent "
+"background)"
+msgstr ""
+
+#: ../inc/options.php:143
+msgid "Styling"
+msgstr ""
+
+#: ../inc/options.php:151
+msgid "Manage the BASIC styling of your Theme"
+msgstr ""
+
+#: ../inc/options.php:158
+msgid "Primary RGB Color"
+msgstr ""
+
+#: ../inc/options.php:167
+msgid "Primary RGBA Color"
+msgstr ""
+
+#: ../inc/options.php:177
+msgid "Secondary RGB Color"
+msgstr ""
+
+#: ../inc/options.php:187
+msgid "Secondary RGBA Color"
+msgstr ""
+
+#: ../inc/options.php:197
+msgid "Main Font"
+msgstr ""
+
+#: ../inc/options.php:222
+msgid "Enable Advanced Styling"
+msgstr ""
+
+#: ../inc/options.php:229
+msgid "BODY"
+msgstr ""
+
+#: ../inc/options.php:241 ../inc/options.php:330 ../inc/options.php:410
+#: ../inc/options.php:490 ../inc/options.php:578 ../inc/options.php:666
+#: ../inc/options.php:754 ../inc/options.php:842 ../inc/options.php:930
+#: ../inc/options.php:1018 ../inc/options.php:1106 ../inc/options.php:1194
+#: ../inc/options.php:1282
+msgid "Font"
+msgstr ""
+
+#: ../inc/options.php:258 ../inc/options.php:507 ../inc/options.php:595
+#: ../inc/options.php:683 ../inc/options.php:771 ../inc/options.php:859
+#: ../inc/options.php:947 ../inc/options.php:1035 ../inc/options.php:1123
+#: ../inc/options.php:1211 ../inc/options.php:1299
+msgid "Color"
+msgstr ""
+
+#: ../inc/options.php:267 ../inc/options.php:347 ../inc/options.php:427
+#: ../inc/options.php:516 ../inc/options.php:604 ../inc/options.php:692
+#: ../inc/options.php:780 ../inc/options.php:868 ../inc/options.php:956
+#: ../inc/options.php:1044 ../inc/options.php:1132 ../inc/options.php:1220
+#: ../inc/options.php:1308
+msgid "Size (px)"
+msgstr ""
+
+#: ../inc/options.php:280 ../inc/options.php:360 ../inc/options.php:440
+#: ../inc/options.php:529 ../inc/options.php:617 ../inc/options.php:705
+#: ../inc/options.php:793 ../inc/options.php:881 ../inc/options.php:969
+#: ../inc/options.php:1057 ../inc/options.php:1145 ../inc/options.php:1233
+#: ../inc/options.php:1321
+msgid "Style"
+msgstr ""
+
+#: ../inc/options.php:281 ../inc/options.php:361 ../inc/options.php:441
+#: ../inc/options.php:530 ../inc/options.php:618 ../inc/options.php:706
+#: ../inc/options.php:794 ../inc/options.php:882 ../inc/options.php:970
+#: ../inc/options.php:1058 ../inc/options.php:1146 ../inc/options.php:1234
+#: ../inc/options.php:1322
+msgid "Note: many fonts haven't an Italic style"
+msgstr ""
+
+#: ../inc/options.php:285 ../inc/options.php:365 ../inc/options.php:445
+#: ../inc/options.php:534 ../inc/options.php:622 ../inc/options.php:710
+#: ../inc/options.php:798 ../inc/options.php:886 ../inc/options.php:974
+#: ../inc/options.php:1062 ../inc/options.php:1150 ../inc/options.php:1238
+#: ../inc/options.php:1326
+msgid "Normal"
+msgstr ""
+
+#: ../inc/options.php:289 ../inc/options.php:369 ../inc/options.php:449
+#: ../inc/options.php:538 ../inc/options.php:626 ../inc/options.php:714
+#: ../inc/options.php:802 ../inc/options.php:890 ../inc/options.php:978
+#: ../inc/options.php:1066 ../inc/options.php:1154 ../inc/options.php:1242
+#: ../inc/options.php:1330
+msgid "Italic"
+msgstr ""
+
+#: ../inc/options.php:302 ../inc/options.php:382 ../inc/options.php:462
+#: ../inc/options.php:551 ../inc/options.php:639 ../inc/options.php:727
+#: ../inc/options.php:815 ../inc/options.php:903 ../inc/options.php:991
+#: ../inc/options.php:1079 ../inc/options.php:1167 ../inc/options.php:1255
+#: ../inc/options.php:1343
+#: ../woocommerce/single-product/product-attributes.php:28
+msgid "Weight"
+msgstr ""
+
+#: ../inc/options.php:303 ../inc/options.php:383 ../inc/options.php:463
+#: ../inc/options.php:552 ../inc/options.php:640 ../inc/options.php:728
+#: ../inc/options.php:816 ../inc/options.php:904 ../inc/options.php:992
+#: ../inc/options.php:1080 ../inc/options.php:1168 ../inc/options.php:1256
+#: ../inc/options.php:1344
+msgid "Note: many fonts haven't all the weigths"
+msgstr ""
+
+#: ../inc/options.php:318
+msgid "MAIN MENU"
+msgstr ""
+
+#: ../inc/options.php:398
+msgid "SUB MENU"
+msgstr ""
+
+#: ../inc/options.php:478
+msgid "H1"
+msgstr ""
+
+#: ../inc/options.php:566
+msgid "H2"
+msgstr ""
+
+#: ../inc/options.php:654
+msgid "H3"
+msgstr ""
+
+#: ../inc/options.php:742
+msgid "H4"
+msgstr ""
+
+#: ../inc/options.php:830
+msgid "H5"
+msgstr ""
+
+#: ../inc/options.php:918
+msgid "H6"
+msgstr ""
+
+#: ../inc/options.php:1006 ../inc/options.php:1642
+msgid "Page Title"
+msgstr ""
+
+#: ../inc/options.php:1094
+msgid "Page Content"
+msgstr ""
+
+#: ../inc/options.php:1182
+msgid "Widget Title"
+msgstr ""
+
+#: ../inc/options.php:1270
+msgid "Footer Text"
+msgstr ""
+
+#: ../inc/options.php:1361
+msgid "Header"
+msgstr ""
+
+#: ../inc/options.php:1369
+msgid "Top Bar"
+msgstr ""
+
+#: ../inc/options.php:1376
+msgid "Email Address"
+msgstr ""
+
+#: ../inc/options.php:1377
+msgid "This address will enable an email icon with a link near the Logo"
+msgstr ""
+
+#: ../inc/options.php:1386
+msgid "Follow Url"
+msgstr ""
+
+#: ../inc/options.php:1387
+msgid "This url will enable a heart icon with a link near the Logo"
+msgstr ""
+
+#: ../inc/options.php:1397
+msgid "Menu"
+msgstr ""
+
+#: ../inc/options.php:1404
+msgid "Default Type"
+msgstr ""
+
+#: ../inc/options.php:1405
+msgid ""
+"This is the default type for the header menu. It can be overidden by the "
+"same option in every page."
+msgstr ""
+
+#: ../inc/options.php:1409 ../inc/metaboxes/post-page-proj.php:121
+msgid "Light Menu"
+msgstr ""
+
+#: ../inc/options.php:1413 ../inc/metaboxes/post-page-proj.php:125
+msgid "Dark Menu"
+msgstr ""
+
+#: ../inc/options.php:1429
+msgid "Footer"
+msgstr ""
+
+#: ../inc/options.php:1437 ../inc/options.php:1444
+msgid "Copyright"
+msgstr ""
+
+#: ../inc/options.php:1454
+msgid "Buttons"
+msgstr ""
+
+#: ../inc/options.php:1461
+msgid "Back to Top"
+msgstr ""
+
+#: ../inc/options.php:1462
+msgid "Enable/Disable the button to turn back to the top of page."
+msgstr ""
+
+#: ../inc/options.php:1470
+msgid "Facebook"
+msgstr ""
+
+#: ../inc/options.php:1475
+msgid "Twitter"
+msgstr ""
+
+#: ../inc/options.php:1480
+msgid "Google+"
+msgstr ""
+
+#: ../inc/options.php:1485 ../inc/widgets/widget-flickr.php:55
+msgid "Flickr"
+msgstr ""
+
+#: ../inc/options.php:1490
+msgid "Pinterest"
+msgstr ""
+
+#: ../inc/options.php:1495
+msgid "Linkedin"
+msgstr ""
+
+#: ../inc/options.php:1500
+msgid "Tumblr"
+msgstr ""
+
+#: ../inc/options.php:1505
+msgid "Instagram"
+msgstr ""
+
+#: ../inc/options.php:1510
+msgid "Picasa"
+msgstr ""
+
+#: ../inc/options.php:1516
+msgid "Soundcloud"
+msgstr ""
+
+#: ../inc/options.php:1521
+msgid "Youtube"
+msgstr ""
+
+#: ../inc/options.php:1526
+msgid "Vimeo"
+msgstr ""
+
+#: ../inc/options.php:1531
+msgid "Behance"
+msgstr ""
+
+#: ../inc/options.php:1536
+msgid "Github"
+msgstr ""
+
+#: ../inc/options.php:1541
+msgid "PayPal"
+msgstr ""
+
+#: ../inc/options.php:1546
+msgid "Yahoo"
+msgstr ""
+
+#: ../inc/options.php:1551
+msgid "CodePen"
+msgstr ""
+
+#: ../inc/options.php:1556
+msgid "Twitch"
+msgstr ""
+
+#: ../inc/options.php:1566
+msgid "Homepage"
+msgstr ""
+
+#: ../inc/options.php:1586
+msgid "SEO"
+msgstr ""
+
+#: ../inc/options.php:1594
+msgid "Home"
+msgstr ""
+
+#: ../inc/options.php:1595
+msgid "Setup your metas for the homepage."
+msgstr ""
+
+#: ../inc/options.php:1602 ../inc/options.php:1632
+msgid "Meta Title"
+msgstr ""
+
+#: ../inc/options.php:1609 ../inc/options.php:1655
+msgid "Meta Description"
+msgstr ""
+
+#: ../inc/options.php:1616 ../inc/options.php:1664
+msgid "Meta Keywords"
+msgstr ""
+
+#: ../inc/options.php:1624
+msgid "Pages"
+msgstr ""
+
+#: ../inc/options.php:1625
+msgid "Setup your metas for the other pages."
+msgstr ""
+
+#: ../inc/options.php:1633
+msgid "Compose your page title with the proposed blocks and sort them."
+msgstr ""
+
+#: ../inc/options.php:1638
+msgid "Blog Name"
+msgstr ""
+
+#: ../inc/options.php:1646
+msgid "Page Excerpt"
+msgstr ""
+
+#: ../inc/options.php:1656
+msgid "Enable/Disable description from page excerpt."
+msgstr ""
+
+#: ../inc/options.php:1674
+msgid "Advanced"
+msgstr ""
+
+#: ../inc/options.php:1683
+msgid "Page Loading"
+msgstr ""
+
+#: ../inc/options.php:1687 ../inc/options.php:1711 ../inc/options.php:1735
+msgid "All Pages"
+msgstr ""
+
+#: ../inc/options.php:1691 ../inc/options.php:1715 ../inc/options.php:1739
+msgid "Only for Home"
+msgstr ""
+
+#: ../inc/options.php:1695 ../inc/options.php:1719 ../inc/options.php:1743
+msgid "Disabled"
+msgstr ""
+
+#: ../inc/options.php:1707
+msgid "Exit Page Curtain"
+msgstr ""
+
+#: ../inc/options.php:1731
+msgid "Appearing Animations"
+msgstr ""
+
+#: ../inc/options.php:1755
+msgid "HIDE unCommons News and Notices (backend)"
+msgstr ""
+
+#: ../inc/options.php:1762
+msgid "Codes"
+msgstr ""
+
+#: ../inc/options.php:1763
+msgid ""
+"Use this section to add your advanced codes in different zones of theme."
+msgstr ""
+
+#: ../inc/options.php:1770
+msgid "Code in Header"
+msgstr ""
+
+#: ../inc/options.php:1779
+msgid "Code in Footer"
+msgstr ""
+
+#: ../inc/options.php:1788
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/options.php:1818
+msgid "Maya Options"
+msgstr ""
+
+#: ../inc/options.php:1819
+msgid "Maya"
+msgstr ""
+
+#: ../inc/plugins.php:62
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: ../inc/plugins.php:75
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: ../inc/setup.php:47
+msgid "Main"
+msgstr ""
+
+#: ../inc/setup.php:98
+msgid "View your shopping cart"
+msgstr ""
+
+#: ../inc/setup.php:99
+msgid "Start shopping"
+msgstr ""
+
+#: ../inc/theme-functions.php:548 ../inc/theme-functions.php:682
+#: ../inc/theme-functions.php:776
+msgid "No published posts found"
+msgstr ""
+
+#: ../inc/theme-functions.php:1299
+msgid ""
+"<center><blockquote class=\"marg-top-50\">The playground section is no "
+"longer available. Please edit this section switching to another section type."
+"</blockquote></center>"
+msgstr ""
+
+#: ../inc/theme-functions.php:1434
+msgid "No published projects found"
+msgstr ""
+
+#: ../inc/theme-functions.php:2127
+msgid "404 Error"
+msgstr ""
+
+#: ../inc/theme-functions.php:2134
+msgid "Archive"
+msgstr ""
+
+#: ../inc/theme-functions.php:2358 ../inc/theme-functions.php:2367
+msgid "No news found"
+msgstr ""
+
+#: ../inc/theme-functions.php:2375
+msgid "No news from unCommons Team"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:15
+msgid "Contact Options"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:23 ../inc/metaboxes/sections.php:988
+msgid "Map Address"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:41 ../inc/metaboxes/sections.php:1005
+msgid "Map Zoom"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:52 ../inc/metaboxes/sections.php:1016
+msgid "Map Color"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:60 ../inc/metaboxes/sections.php:1024
+msgid "Marker"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:67 ../inc/metaboxes/sections.php:1031
+msgid "Marker Address"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:85 ../inc/metaboxes/sections.php:1048
+msgid "Marker Content"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:86 ../inc/metaboxes/page-contact.php:113
+#: ../inc/metaboxes/sections.php:439 ../inc/metaboxes/sections.php:609
+#: ../inc/metaboxes/sections.php:789 ../inc/metaboxes/sections.php:842
+#: ../inc/metaboxes/sections.php:1049 ../inc/metaboxes/sections.php:1125
+#: ../inc/metaboxes/sections.php:1326 ../inc/metaboxes/sections.php:1376
+#: ../inc/metaboxes/sections.php:1549
+msgid "HTML allowed"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:95 ../inc/metaboxes/sections.php:824
+msgid "CF7 Form"
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:96 ../inc/metaboxes/sections.php:825
+msgid ""
+"Select the CF7's form (to use this feature you need to install <a href="
+"\"https://wordpress.org/plugins/contact-form-7/\" target=\"_blank\">CF7</a> "
+"and create your form)."
+msgstr ""
+
+#: ../inc/metaboxes/page-contact.php:112 ../inc/metaboxes/sections.php:841
+msgid "Side Content"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:15 ../inc/metaboxes/sections.php:1187
+msgid "Portfolio Options"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:23 ../inc/metaboxes/sections.php:1198
+msgid "Categories"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:24 ../inc/metaboxes/sections.php:1199
+msgid "Filter your projects by Category"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:28 ../inc/metaboxes/sections.php:1203
+#: ../inc/widgets/widget-mega-posts.php:158
+#: ../inc/widgets/widget-mega-projects.php:155
+msgid "All Categories"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:46 ../inc/metaboxes/sections.php:504
+#: ../inc/metaboxes/sections.php:534 ../inc/metaboxes/sections.php:571
+#: ../inc/metaboxes/sections.php:1222
+msgid "Items Limit"
+msgstr ""
+
+#: ../inc/metaboxes/page-portfolio.php:47
+msgid "Leave to 0 if you want to show all your projects"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:76
+msgid "Intro Section Options"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:84
+msgid "Intro Section"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:85
+msgid "Choose your preferred Intro Section for your page"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:90
+msgid "Slider"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:94
+msgid "Video"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:98
+msgid "Parallax Image"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:102
+msgid "No Intro"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:115
+msgid "Enable Onepage Navigation"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:127
+msgid "Enable Dotted Pattern"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:139
+msgid "Enable Bottom Arrow"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:155
+msgid "Slide"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:166
+#: ../inc/metaboxes/page-sections.php:259 ../inc/metaboxes/post-proj.php:70
+#: ../inc/metaboxes/sections.php:1410 ../inc/metaboxes/sections.php:1534
+msgid "Image"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:173
+#: ../inc/metaboxes/page-sections.php:270 ../inc/metaboxes/sections.php:413
+#: ../inc/widgets/widget-facebook.php:79
+msgid "Title"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:180
+#: ../inc/metaboxes/page-sections.php:281 ../inc/metaboxes/sections.php:438
+msgid "Subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:192
+msgid "Youtube URL"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:193
+msgid "You can use the video id too"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:204
+msgid "Start video on Mute"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:216
+msgid "Enable Video Controls"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:228
+msgid "Autoplay"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:240
+msgid "Start Video at"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:241
+msgid "Set the seconds the video should start at"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:295 ../inc/metaboxes/sections.php:358
+msgid "Custom HTML"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:296
+msgid ""
+"Add your custom html for you intro or leave blank to disable thie feature"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:312
+msgid "Sections Options"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:320
+msgid "Manage the page Sections"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:321
+msgid "Add your sections after the intro and order them using Drag & Drop."
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:330 ../inc/posttypes/un-sections.php:17
+msgid "Section"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:338
+msgid "Choose the Section"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:339
+#: ../inc/metaboxes/post-page-proj.php:138
+msgid "Select the sections you want to add to the end of page and sort them."
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:354
+msgid "Choose the Icon"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:355
+msgid "This icon will be used for the onepage navigation feature"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:365
+msgid "Icon Label"
+msgstr ""
+
+#: ../inc/metaboxes/page-sections.php:366
+msgid "This label will appear as a tooltip on the icon"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:54
+msgid "Page Options"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:62
+msgid "Disable Page Header"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:70
+msgid "Layout"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:71
+msgid "Choose the layout for this page."
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:78
+msgid "Right Sidebar"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:83
+msgid "Left Sidebar"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:88
+msgid "Full Content"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:101
+msgid "Select Sidebar"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:102
+msgid ""
+"Select the sidebar you want in this page (doesn't work with full content "
+"layout)."
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:117
+msgid "Menu Type"
+msgstr ""
+
+#: ../inc/metaboxes/post-page-proj.php:137
+msgid "Add Sections"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:15
+msgid "Format Options"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:23
+msgid "SoundCloud"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:24
+msgid "Paste the embed iframe from SoundCloud (working on <b>Audio</b> format)"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:31
+msgid "Video Code"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:32
+msgid ""
+"Paste the embed code from Youtube or Vimeo (working on <b>Video</b> format)"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:41
+msgid "Gallery (working on <b>Gallery</b> format)"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:48
+msgid "Gallery Type"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:52
+msgid "Grid Layout"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:56
+msgid "Slider Layout"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:77
+msgid "Upload Image"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:85
+msgid "Image Title"
+msgstr ""
+
+#: ../inc/metaboxes/post-proj.php:92
+msgid "Image Subtitle"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:276
+msgid "Address Search"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:277
+msgid ""
+"The address you searched for is not found in Google Map! Try to edit your "
+"search keyword."
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:316
+msgid "Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:325
+msgid "Choose your preferred Section among many types"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:330
+msgid "Blog 1"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:334
+msgid "Blog 2"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:338
+msgid "Blog 3"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:342
+msgid "Callout"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:346
+msgid "Clients"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:350
+msgid "Contact Form"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:354
+msgid "Counters"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:362
+msgid "Features"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:366
+msgid "Map"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:370
+msgid "Overview"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:379 ../inc/posttypes/un-portfolio.php:28
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:383
+msgid "Services 1"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:387
+msgid "Services 2"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:391
+msgid "Team"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:395
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:399
+msgid "Widgets"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:414
+msgid "Leave blank to disable the section header"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:425
+msgid "Title Color"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:450
+msgid "Subtitle Color"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:463 ../inc/metaboxes/sections.php:883
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:479
+msgid "Blog 1 Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:490
+msgid "Blog Title"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:497 ../inc/metaboxes/sections.php:564
+#: ../inc/metaboxes/sections.php:674 ../inc/metaboxes/sections.php:866
+#: ../inc/metaboxes/sections.php:1074 ../inc/metaboxes/sections.php:1295
+#: ../inc/metaboxes/sections.php:1519
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:505 ../inc/metaboxes/sections.php:535
+#: ../inc/metaboxes/sections.php:572 ../inc/metaboxes/sections.php:1223
+msgid "Leave to 0 if you want to show all your posts"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:523
+msgid "Blog 2 Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:553
+msgid "Blog 3 Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:590
+msgid "Callout Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:601
+msgid "Callout Title"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:608
+msgid "Callout Excerpt"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:622
+msgid "Clients Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:634
+msgid "Client"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:641
+msgid "Logo"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:648
+msgid "URL"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:663
+msgid "Counters Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:681 ../inc/metaboxes/sections.php:1081
+msgid "Overlayer style"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:685
+msgid "Light"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:689 ../inc/metaboxes/sections.php:1089
+msgid "Your primary custom color"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:702
+msgid "Counter"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:709 ../inc/metaboxes/sections.php:773
+#: ../inc/metaboxes/sections.php:1109 ../inc/metaboxes/sections.php:1310
+#: ../inc/metaboxes/sections.php:1360
+msgid "Icon"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:710 ../inc/metaboxes/sections.php:774
+#: ../inc/metaboxes/sections.php:1110 ../inc/metaboxes/sections.php:1311
+#: ../inc/metaboxes/sections.php:1361
+msgid "Select a icon from the included package "
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:717
+msgid "Start the count from"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:728
+msgid "End the count to"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:739
+msgid "Counter Label"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:754
+msgid "Features Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:766 ../inc/metaboxes/sections.php:1102
+msgid "Feature"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:781 ../inc/metaboxes/sections.php:1117
+msgid "Feature Title"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:788 ../inc/metaboxes/sections.php:1124
+msgid "Feature Excerpt"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:796
+msgid "Feature URL"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:797
+msgid "Leave blank to disable the link"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:813
+msgid "Contact Form Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:855
+msgid "Custom HTML Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:867
+msgid "Leave it blank to disable Image BG"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:874
+msgid "Parallax"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:876
+msgid "It is working only if you attach an image in the previous field"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:892
+msgid "Background Width"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:896 ../inc/metaboxes/sections.php:926
+#: ../inc/metaboxes/sections.php:1238
+msgid "Fullwidth"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:900 ../inc/metaboxes/sections.php:930
+#: ../inc/metaboxes/sections.php:1242
+msgid "Boxed"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:912
+msgid "Background Overlay"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:913
+msgid "Leave it blank to disable the overlay"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:922
+msgid "Content Width"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:942
+msgid "Top Padding"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:953
+msgid "HTML Content"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:960
+msgid "Bottom Padding"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:977
+msgid "Map Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1062
+msgid "Overview Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1085
+msgid "Dark"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1234
+msgid "Portfolio Width"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1254
+msgid "Items Spacing"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1258
+msgid "0 Pixels"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1262
+msgid "25 Pixels"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1266
+msgid "50 Pixels"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1283 ../inc/metaboxes/sections.php:1341
+msgid "Sercives Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1303 ../inc/metaboxes/sections.php:1353
+msgid "Service"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1318 ../inc/metaboxes/sections.php:1368
+msgid "Service Title"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1325 ../inc/metaboxes/sections.php:1375
+msgid "Service Excerpt"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1391
+msgid "Team Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1403
+msgid "Person"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1417 ../inc/metaboxes/sections.php:1541
+#: ../woocommerce/single-product-reviews.php:62
+msgid "Name"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1424
+#: ../woocommerce/single-product-reviews.php:64
+msgid "Email"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1432
+msgid "Role"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1439
+msgid "Custom Url"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1446
+msgid "Skill 1 Label"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1453
+msgid "Skill 1 Value"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1464
+msgid "Skill 2 Label"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1471
+msgid "Skill 2 Value"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1482 ../inc/metaboxes/sections.php:1489
+msgid "Skill 3 Value"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1508
+msgid "Testimonials Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1527
+msgid "Testimonial"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1548
+msgid "Message"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1564
+msgid "Widgets Options"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1575
+msgid "Select Sidebar 1"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1590
+msgid "Select Sidebar 2"
+msgstr ""
+
+#: ../inc/metaboxes/sections.php:1605
+msgid "Select Sidebar 3"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:16
+msgid "Projects"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:17
+msgid "Project"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:18 ../inc/posttypes/un-sections.php:18
+#: ../inc/posttypes/un-sidebars.php:18
+msgid "Add New"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:19
+msgid "Add New Project"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:20
+msgid "Edit Project"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:21
+msgid "New Project"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:22
+msgid "All Projects"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:23
+msgid "View Project"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:24
+msgid "Search Projects"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:25
+msgid "No projects found"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:26
+msgid "No projects found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:58 ../inc/posttypes/un-portfolio.php:68
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:59
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:60
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:61
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:62
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:63
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:64
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:65
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:66
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:67
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:94
+#, php-format
+msgid "Project updated. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:95 ../inc/posttypes/un-sections.php:63
+#: ../inc/posttypes/un-sidebars.php:63
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:96 ../inc/posttypes/un-sections.php:64
+#: ../inc/posttypes/un-sidebars.php:64
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:97
+msgid "Project updated."
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:99
+#, php-format
+msgid "Project restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:100
+#, php-format
+msgid "Project published. <a href=\"%s\">View project</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:101
+msgid "Project saved."
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:102
+#, php-format
+msgid "Project submitted. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:103
+#, php-format
+msgid ""
+"Project scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:105 ../inc/posttypes/un-sections.php:73
+msgid "M j, Y @ G:i"
+msgstr ""
+
+#: ../inc/posttypes/un-portfolio.php:106
+#, php-format
+msgid ""
+"Project draft updated. <a target=\"_blank\" href=\"%s\">Preview project</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:16 ../inc/posttypes/un-sections.php:28
+msgid "Sections"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:19
+msgid "Add New Section"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:20
+msgid "Edit Section"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:21
+msgid "New Section"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:22
+msgid "All Sections"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:23
+msgid "View Section"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:24
+msgid "Search Sections"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:25
+msgid "No section found"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:26
+msgid "No sections found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:62
+#, php-format
+msgid "Section updated. <a href=\"%s\">View image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:65
+msgid "Section updated."
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:67
+#, php-format
+msgid "Section restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:68
+#, php-format
+msgid "Section published. <a href=\"%s\">View image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:69
+msgid "Section saved."
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:70
+#, php-format
+msgid "Section submitted. <a target=\"_blank\" href=\"%s\">Preview image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:71
+#, php-format
+msgid ""
+"Section scheduled for: <strong>%1$s</strong>. <a target=\"_blank\" href="
+"\"%2$s\">Preview image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sections.php:74
+#, php-format
+msgid ""
+"Section draft updated. <a target=\"_blank\" href=\"%s\">Preview image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:16 ../inc/posttypes/un-sidebars.php:28
+msgid "Sidebars"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:17
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:19
+msgid "Add New Sidebar"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:20
+msgid "Edit Sidebar"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:21
+msgid "New Sidebar"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:22
+msgid "All Sidebars"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:23
+msgid "View Sidebar"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:24
+msgid "Search Sidebars"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:25
+msgid "No sidebar found"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:26
+msgid "No sidebar found in Trash"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:62
+#, php-format
+msgid "Sidebar updated. <a href=\"%s\">View image</a>"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:65
+msgid "Sidebar updated."
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:66
+#, php-format
+msgid "Sidebar restored to revision from %s"
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:67
+msgid "Sidebar published."
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:68
+msgid "Sidebar saved."
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:69
+msgid "Sidebar submitted."
+msgstr ""
+
+#: ../inc/posttypes/un-sidebars.php:70
+msgid "Sidebar scheduled."
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:67
+msgid "Find us on Facebook"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:68
+msgid "https://www.facebook.com/envato"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:83
+msgid "Page Url"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:97
+msgid "Show Header"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:109
+msgid "Show Stream"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:121
+msgid "Show Faces"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:127
+msgid "Box Height"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:136
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/widgets/widget-facebook.php:162
+msgid "Iframe CSS"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-posts.php:21
+msgid "Display the posts as you want"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-posts.php:23
+msgid "UN: Mega Posts"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-posts.php:138
+msgid "Mega Posts"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-posts.php:153
+#: ../inc/widgets/widget-mega-projects.php:150
+msgid "Category Filter:"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-projects.php:21
+msgid "Display the projects as you want"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-projects.php:23
+msgid "UN: Mega Projects"
+msgstr ""
+
+#: ../inc/widgets/widget-mega-projects.php:135
+msgid "Mega Projects"
+msgstr ""
+
+#: ../woocommerce/add-to-wishlist.php:21
+msgid "Product added!"
+msgstr ""
+
+#: ../woocommerce/add-to-wishlist.php:23 ../woocommerce/add-to-wishlist.php:30
+msgid "View Wishlist"
+msgstr ""
+
+#: ../woocommerce/add-to-wishlist.php:28
+msgid "The product is already in the wishlist!"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:23
+msgid "Reviews"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:44
+msgid "There are no reviews yet."
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Add a review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:57
+msgid "Be the first to review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:58
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:67
+msgid "Submit"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:73
+msgid "Your Rating"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:74
+msgid "Rate&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:75
+msgid "Perfect"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:76
+msgid "Good"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:77
+msgid "Average"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:78
+msgid "Not that bad"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:79
+msgid "Very Poor"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:83
+msgid "Your Review"
+msgstr ""
+
+#: ../woocommerce/single-product-reviews.php:92
+msgid ""
+"Only logged in customers who have purchased this product may leave a review."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:16
+msgid "Your cart is currently empty."
+msgstr ""
+
+#: ../woocommerce/cart/cart-empty.php:20
+msgid "Return To Shop"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:16
+#, php-format
+msgid "Shipping #%d"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:18
+msgid "Shipping and Handling"
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:55
+msgid "Please use the shipping calculator to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:59
+msgid ""
+"Please continue to the checkout and enter your full address to see if there "
+"are any available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:63
+msgid "Please fill in your details to see available shipping methods."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:72
+#: ../woocommerce/cart/cart-shipping.php:78
+msgid ""
+"There doesn&lsquo;t seem to be any available shipping methods. Please double "
+"check your address, or contact us if you need any help."
+msgstr ""
+
+#: ../woocommerce/cart/cart-shipping.php:93
+msgid "Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:16
+msgid "Cart Totals"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:21
+#: ../woocommerce/checkout/review-order.php:50
+msgid "Cart Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:75
+#: ../woocommerce/checkout/review-order.php:97
+msgid "Order Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:87
+#, php-format
+msgid " (taxes estimated for %s)"
+msgstr ""
+
+#: ../woocommerce/cart/cart-totals.php:90
+#, php-format
+msgid ""
+"Note: Shipping and taxes are estimated%s and will be updated during checkout "
+"based on your billing and shipping information."
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:25 ../woocommerce/checkout/form-pay.php:20
+#: ../woocommerce/checkout/review-order.php:17
+#: ../woocommerce/emails/admin-new-order.php:22
+#: ../woocommerce/emails/customer-completed-order.php:23
+#: ../woocommerce/emails/customer-invoice.php:27
+#: ../woocommerce/emails/customer-note.php:27
+#: ../woocommerce/emails/customer-processing-order.php:23
+#: ../woocommerce/order/order-details.php:18
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:26
+#: ../woocommerce/emails/admin-new-order.php:24
+#: ../woocommerce/emails/customer-completed-order.php:25
+#: ../woocommerce/emails/customer-invoice.php:29
+#: ../woocommerce/emails/customer-note.php:29
+#: ../woocommerce/emails/customer-processing-order.php:25
+msgid "Price"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:27
+#: ../woocommerce/emails/admin-new-order.php:23
+#: ../woocommerce/emails/customer-completed-order.php:24
+#: ../woocommerce/emails/customer-invoice.php:28
+#: ../woocommerce/emails/customer-note.php:28
+#: ../woocommerce/emails/customer-processing-order.php:24
+msgid "Quantity"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:28 ../woocommerce/checkout/review-order.php:18
+#: ../woocommerce/myaccount/my-orders.php:35
+#: ../woocommerce/order/order-details.php:19
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:45
+msgid "Remove this item"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:72
+msgid "Available on backorder"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:117
+msgid "Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:117 ../woocommerce/checkout/form-coupon.php:25
+msgid "Coupon code"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:117 ../woocommerce/checkout/form-coupon.php:29
+msgid "Apply Coupon"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:124
+msgid "Update Cart"
+msgstr ""
+
+#: ../woocommerce/cart/cart.php:124
+msgid "Proceed to Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/cross-sells.php:38
+msgid "You may be interested in&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:52
+msgid "No products in the cart."
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:60
+msgid "Subtotal"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:65
+msgid "View Cart"
+msgstr ""
+
+#: ../woocommerce/cart/mini-cart.php:66
+msgid "Checkout"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:20
+msgid "Calculate Shipping"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:26
+msgid "Select a country&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:43
+#: ../woocommerce/cart/shipping-calculator.php:49
+#: ../woocommerce/cart/shipping-calculator.php:61
+msgid "State / county"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:50
+msgid "Select a state&hellip;"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:70
+msgid "City"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:78
+msgid "Postcode / Zip"
+msgstr ""
+
+#: ../woocommerce/cart/shipping-calculator.php:83
+msgid "Update Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:18
+msgid ""
+"There are some issues with the items in your cart (shown above). Please go "
+"back to the cart page and resolve these issues before checking out."
+msgstr ""
+
+#: ../woocommerce/checkout/cart-errors.php:22
+msgid "Return To Cart"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:19
+msgid "Billing &amp; Shipping"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:23
+msgid "Billing Details"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:42
+msgid "Create an account?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-billing.php:53
+msgid ""
+"Create an account by entering the information below. If you are a returning "
+"customer please login at the top of the page."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:20
+msgid "You must be logged in to checkout."
+msgstr ""
+
+#: ../woocommerce/checkout/form-checkout.php:45
+msgid "Your order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Have a coupon?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-coupon.php:18
+msgid "Click here to enter your code"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:18
+msgid "Returning customer?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:19
+msgid "Click here to login"
+msgstr ""
+
+#: ../woocommerce/checkout/form-login.php:26
+msgid ""
+"If you have shopped with us before, please enter your details in the boxes "
+"below. If you are a new customer please proceed to the Billing &amp; "
+"Shipping section."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:21
+msgid "Qty"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:22
+msgid "Totals"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:55
+msgid "Payment"
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:80
+msgid ""
+"Sorry, it seems that there are no available payment methods for your "
+"location. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/form-pay.php:90
+msgid "Pay for order"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:32
+msgid "Ship to a different address?"
+msgstr ""
+
+#: ../woocommerce/checkout/form-shipping.php:58
+#: ../woocommerce/single-product/tabs/additional-information.php:17
+msgid "Additional Information"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:30
+msgid "Please fill in your details above to see available payment methods."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:32
+msgid ""
+"Sorry, it seems that there are no available payment methods for your state. "
+"Please contact us if you require assistance or wish to make alternate "
+"arrangements."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:43
+msgid ""
+"Since your browser does not support JavaScript, or it is disabled, please "
+"ensure you click the <em>Update Totals</em> button before placing your "
+"order. You may be charged more than the amount stated above if you fail to "
+"do so."
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:43
+msgid "Update totals"
+msgstr ""
+
+#: ../woocommerce/checkout/payment.php:53
+#, php-format
+msgid ""
+"I&rsquo;ve read and accept the <a href=\"%s\" target=\"_blank\">terms &amp; "
+"conditions</a>"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:18
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:22
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:24
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:28
+#: ../woocommerce/myaccount/my-orders.php:68
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:30
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:36
+#: ../woocommerce/checkout/thankyou.php:67
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:40
+msgid "Order Number:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:44
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:48
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:53
+msgid "Payment Method:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:13
+#: ../woocommerce/emails/plain/admin-new-order.php:13
+#, php-format
+msgid "You have received an order from %s. Their order is as follows:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:17
+#, php-format
+msgid "Order: %s"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:50
+#: ../woocommerce/emails/customer-completed-order.php:51
+#: ../woocommerce/emails/customer-note.php:55
+#: ../woocommerce/emails/customer-processing-order.php:51
+#: ../woocommerce/emails/plain/admin-new-order.php:39
+#: ../woocommerce/order/order-details.php:95
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:53
+#: ../woocommerce/emails/customer-completed-order.php:54
+#: ../woocommerce/emails/customer-note.php:58
+#: ../woocommerce/emails/customer-processing-order.php:54
+#: ../woocommerce/emails/plain/admin-new-order.php:42
+#: ../woocommerce/emails/plain/customer-completed-order.php:41
+#: ../woocommerce/emails/plain/customer-note.php:49
+#: ../woocommerce/emails/plain/customer-processing-order.php:41
+#: ../woocommerce/order/order-details.php:99
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/emails/admin-new-order.php:56
+#: ../woocommerce/emails/customer-completed-order.php:57
+#: ../woocommerce/emails/customer-note.php:61
+#: ../woocommerce/emails/customer-processing-order.php:57
+#: ../woocommerce/emails/plain/admin-new-order.php:45
+#: ../woocommerce/emails/plain/customer-completed-order.php:44
+#: ../woocommerce/emails/plain/customer-note.php:52
+#: ../woocommerce/emails/plain/customer-processing-order.php:44
+msgid "Tel:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:14
+#: ../woocommerce/emails/plain/customer-completed-order.php:13
+#, php-format
+msgid ""
+"Hi there. Your recent order on %s has been completed. Your order details are "
+"shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-completed-order.php:18
+#: ../woocommerce/emails/customer-invoice.php:22
+#: ../woocommerce/emails/customer-note.php:22
+#: ../woocommerce/emails/customer-processing-order.php:18
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+#: ../woocommerce/emails/plain/customer-invoice.php:14
+#, php-format
+msgid ""
+"An order has been created for you on %s. To pay for this order please use "
+"the following link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-invoice.php:16
+msgid "pay"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:14
+#: ../woocommerce/emails/plain/customer-new-account.php:13
+#, php-format
+msgid ""
+"Thanks for creating an account on %s. Your username is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:18
+#, php-format
+msgid "Your password has been automatically generated: <strong>%s</strong>"
+msgstr ""
+
+#: ../woocommerce/emails/customer-new-account.php:22
+#: ../woocommerce/emails/plain/customer-new-account.php:18
+#, php-format
+msgid ""
+"You can access your account area to view your orders and change your "
+"password here: %s."
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:14
+#: ../woocommerce/emails/plain/customer-note.php:13
+msgid "Hello, a note has just been added to your order:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-note.php:18
+#: ../woocommerce/emails/plain/customer-note.php:21
+msgid "For your reference, your order details are shown below."
+msgstr ""
+
+#: ../woocommerce/emails/customer-processing-order.php:14
+#: ../woocommerce/emails/plain/customer-processing-order.php:13
+msgid ""
+"Your order has been received and is now being processed. Your order details "
+"are shown below for your reference:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:14
+#: ../woocommerce/emails/plain/customer-reset-password.php:13
+msgid "Someone requested that the password be reset for the following account:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:15
+#: ../woocommerce/emails/plain/customer-reset-password.php:15
+#, php-format
+msgid "Username: %s"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:16
+#: ../woocommerce/emails/plain/customer-reset-password.php:16
+msgid "If this was a mistake, just ignore this email and nothing will happen."
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:17
+#: ../woocommerce/emails/plain/customer-reset-password.php:17
+msgid "To reset your password, visit the following address:"
+msgstr ""
+
+#: ../woocommerce/emails/customer-reset-password.php:20
+msgid "Click here to reset your password"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:20
+#: ../woocommerce/emails/plain/email-addresses.php:14
+msgid "Billing address"
+msgstr ""
+
+#: ../woocommerce/emails/email-addresses.php:30
+#: ../woocommerce/emails/plain/email-addresses.php:19
+msgid "Shipping address"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:23
+msgid "Product Image"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:44
+#: ../woocommerce/emails/plain/email-order-items.php:47
+#, php-format
+msgid "Download %d"
+msgstr ""
+
+#: ../woocommerce/emails/email-order-items.php:46
+#: ../woocommerce/emails/plain/email-order-items.php:49
+msgid "Download"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:19
+#: ../woocommerce/emails/plain/customer-completed-order.php:19
+#: ../woocommerce/emails/plain/customer-invoice.php:20
+#: ../woocommerce/emails/plain/customer-note.php:27
+#: ../woocommerce/emails/plain/customer-processing-order.php:19
+#, php-format
+msgid "Order number: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:20
+#, php-format
+msgid "Order link: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:21
+#: ../woocommerce/emails/plain/customer-completed-order.php:20
+#: ../woocommerce/emails/plain/customer-invoice.php:21
+#: ../woocommerce/emails/plain/customer-note.php:28
+#: ../woocommerce/emails/plain/customer-processing-order.php:20
+#, php-format
+msgid "Order date: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/admin-new-order.php:21
+msgid "jS F Y"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-completed-order.php:38
+#: ../woocommerce/emails/plain/customer-note.php:46
+#: ../woocommerce/emails/plain/customer-processing-order.php:38
+msgid "Your details"
+msgstr ""
+
+#: ../woocommerce/emails/plain/customer-new-account.php:16
+#, php-format
+msgid "Your password is <strong>%s</strong>."
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:33
+#, php-format
+msgid "Quantity: %s"
+msgstr ""
+
+#: ../woocommerce/emails/plain/email-order-items.php:36
+#, php-format
+msgid "Cost: %s"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:72
+msgid "Products tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:100
+#: ../woocommerce/global/breadcrumb.php:202
+msgid "Search results for &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:156
+msgid "Error 404"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:206
+msgid "Posts tagged &ldquo;"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:211
+msgid "Author:"
+msgstr ""
+
+#: ../woocommerce/global/breadcrumb.php:216
+msgid "Page"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:22
+#: ../woocommerce/myaccount/form-lost-password.php:23
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:26
+#: ../woocommerce/myaccount/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:88
+msgid "Password"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:35
+#: ../woocommerce/myaccount/form-login.php:27
+#: ../woocommerce/myaccount/form-login.php:46
+msgid "Login"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:38
+#: ../woocommerce/myaccount/form-login.php:48
+msgid "Remember me"
+msgstr ""
+
+#: ../woocommerce/global/form-login.php:42
+#: ../woocommerce/myaccount/form-login.php:52
+msgid "Lost your password?"
+msgstr ""
+
+#: ../woocommerce/loop/no-products-found.php:14
+msgid "No products were found matching your selection."
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:33
+msgid "Showing the single result"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:35
+#, php-format
+msgid "Showing all %d results"
+msgstr ""
+
+#: ../woocommerce/loop/result-count.php:37
+#, php-format
+msgid "Showing %1$d&ndash;%2$d of %3$d results"
+msgstr ""
+
+#: ../woocommerce/loop/sale-flash.php:16
+#: ../woocommerce/single-product/sale-flash.php:16
+msgid "Sale!"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:40
+msgid ""
+"Sorry, it seems that there are no payment methods which support adding a new "
+"payment method. Please contact us if you require assistance or wish to make "
+"alternate arrangements."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-add-payment-method.php:48
+msgid "Add Payment Method"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:23
+msgid "First name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:27
+msgid "Last name"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:33
+#: ../woocommerce/myaccount/form-login.php:81
+msgid "Email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:38
+msgid "Password Change"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:41
+msgid "Current Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:45
+msgid "New Password (leave blank to leave unchanged)"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:49
+msgid "Confirm New Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-account.php:59
+msgid "Save changes"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:116
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:16
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:131
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-edit-address.php:44
+msgid "Save Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:34
+msgid "Username or email address"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:65
+#: ../woocommerce/myaccount/form-login.php:102
+msgid "Register"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:74
+msgid "Username"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-login.php:95
+msgid "Anti-spam"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:21
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:27
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:30
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:34
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:45
+msgid "Save"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:19
+#, php-format
+msgid "Hello <strong>%1$s</strong> (not %1$s? <a href=\"%2$s\">Sign out</a>)."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:24
+#, php-format
+msgid ""
+"From your account dashboard you can view your recent orders, manage your "
+"shipping and billing addresses and <a href=\"%s\">edit your password and "
+"account details</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:35
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:45
+msgid "Edit"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:64
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:26
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:32
+msgid "Order"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:33
+msgid "Date"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:81
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:19
+#, php-format
+msgid ""
+"Order <mark class=\"order-number\">%s</mark> was placed on <mark class="
+"\"order-date\">%s</mark> and is currently <mark class=\"order-status\">%s</"
+"mark>."
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:23
+#: ../woocommerce/order/tracking.php:23
+msgid "Order Updates"
+msgstr ""
+
+#: ../woocommerce/myaccount/view-order.php:29
+#: ../woocommerce/order/tracking.php:29
+msgid "l jS \\o\\f F Y, h:ia"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:17
+msgid ""
+"To track your order please enter your Order ID in the box below and press "
+"return. This was given to you on your receipt and in the confirmation email "
+"you should have received."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Order ID"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:19
+msgid "Found in your order confirmation email."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Billing Email"
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:20
+msgid "Email you used during checkout."
+msgstr ""
+
+#: ../woocommerce/order/form-tracking.php:23
+msgid "Track"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:14
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:52
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:100
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:120
+#: ../woocommerce/order/order-details.php:135
+#: ../woocommerce/single-product/meta.php:23
+msgid "N/A"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+#, php-format
+msgid "Order %s which was made %s has the status &ldquo;%s&rdquo;"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:12
+msgid "ago"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid "and was completed"
+msgstr ""
+
+#: ../woocommerce/order/tracking.php:14
+msgid " ago"
+msgstr ""
+
+#: ../woocommerce/single-product/meta.php:23
+msgid "SKU:"
+msgstr ""
+
+#: ../woocommerce/single-product/product-attributes.php:35
+msgid "Dimensions"
+msgstr ""
+
+#: ../woocommerce/single-product/product-image.php:38
+msgid "Placeholder"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:23
+#, php-format
+msgid "Rated %s out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/rating.php:25
+#: ../woocommerce/single-product/review.php:27
+msgid "out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/related.php:40
+msgid "Related Products"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:26
+#, php-format
+msgid "Rated %d out of 5"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:34
+msgid "Your comment is awaiting approval"
+msgstr ""
+
+#: ../woocommerce/single-product/review.php:43
+msgid "verified owner"
+msgstr ""
+
+#: ../woocommerce/single-product/up-sells.php:39
+msgid "You may also like&hellip;"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:25
+msgid "Choose an option"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:73
+msgid "Clear selection"
+msgstr ""
+
+#: ../woocommerce/single-product/add-to-cart/variable.php:103
+msgid "This product is currently out of stock and unavailable."
+msgstr ""
+
+#: ../woocommerce/single-product/tabs/description.php:14
+msgid "Product Description"
+msgstr ""

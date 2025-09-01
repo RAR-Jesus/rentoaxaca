@@ -1,0 +1,320 @@
+/**
+ * Theme Name:     Medical Hall
+ * Author:         rameshkhanal
+ * Template:       better-health
+ * Theme URI:      https://www.pipal.ml/medical-hall/
+ * Description:    Medical Hall is the child theme of Better Health. This theme is suitable for any types of medical websites like hospital, nursing home, dental clinic, doctors website, medical representatives and many more. Download this free version today and start using it. 
+ * Version:        1.0.0
+ * License:        GNU General Public License v3
+ * License URI:    http://www.gnu.org/licenses/gpl-3.0.html
+ * Text Domain:    medical-hall
+ * Tags:           custom-logo, one-column, two-columns, right-sidebar, left-sidebar, full-width-template, custom-background, custom-colors, custom-menu, featured-images, theme-options, threaded-comments, translation-ready, blog, portfolio, footer-widgets
+ */
+/************************************
+##0
+*************************************/  
+body{
+    font-family: 'Rubik', sans-serif;
+    font-weight:400;    
+}
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Rubik', sans-serif;
+    font-weight:600;
+}
+.btn-primary {
+    color: #fff;
+    background-color: #13bfb1;
+    border-color: #13bfb1;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #17ac9f;
+    border-color: #17ac9f;
+}
+
+.btn-secondary {
+    color: #fff;
+    background-color: #333;
+    border-color: #333;
+}
+
+.btn-secondary:hover {
+    color: #fff;
+    background-color: #000;
+    border-color: #000;
+}
+{
+    color:#13bfb1
+}
+
+#main-slide .carousel-control i,
+.line-middle,
+.line-middle:before, .line-middle:after,
+.line-middle:before, .line-middle:after,
+.overlay i,
+.bh-testimonial.owl-carousel 
+.owl-dots .owl-dot.active span,
+.dropdown-menu> li >a:hover,
+.inner-title,
+.nav-links .nav-previous a, 
+.nav-links .nav-next a,
+.appointment .modal-header,
+#comments input[type="submit"],
+.section-2-box-right a.readmore{
+    background:#13bfb1;
+}
+
+.line-heading .line-left, 
+.line-heading .line-right,
+#secondary .widget-title,
+.post blockquote{
+    border-color:#13bfb1;
+}
+/************************************
+##1
+*************************************/ 
+ .top-header {
+    background: #13bfb1;
+}
+.navbar-nav > li > a{
+   font-family: 'Rubik', sans-serif;
+font-weight:500;    
+}
+p.search-btn {
+    border-left: 1px solid #13a196;
+    border-right: 1px solid #13a196; 
+}
+.make-booking .makebooking {
+    background: #13bfb1;
+}
+.slide-sub-title{
+    font-weight:900;
+    color:#fff;
+}
+.slider-content p{
+    color:#fff;    
+}
+.site-branding .site-title a {
+    color: #13bfb1;
+}
+/************************************
+##2
+*************************************/ 
+section#section1 {
+    margin: -40px 0;
+}
+section#section1 {
+    margin: 0;
+    padding: 0;
+}
+section#section1 .container {
+    width: 100%;
+}
+.section-1-box-icon-background {
+    margin-bottom: 20px;
+}
+
+section#section1 .section-1-box {
+    text-align: left;
+    display: inline-block;
+    padding: 40px 30px;
+}
+
+#section1 .col-md-3.col-sm-6:nth-child(odd),
+#section1 .col-md-4.col-sm-6:nth-child(odd),
+#section1 .col-md-6.col-sm-6:nth-child(odd),
+#section1 .col-md-12.col-sm-6:nth-child(odd) {
+    background: #13bfb1;
+}
+
+#section1 .col-md-3.col-sm-6:nth-child(even),
+#section1 .col-md-4.col-sm-6:nth-child(even),
+#section1 .col-md-6.col-sm-6:nth-child(even),
+#section1 .col-md-12.col-sm-6:nth-child(even) {
+    background: #17ac9f;
+}
+
+#section1 .col-md-3.col-sm-6:nth-child(odd):hover {
+    background: #169f93;
+}
+
+#section1 .col-md-3.col-sm-6:nth-child(even):hover {
+    background: #169f93;
+}
+
+#section2 {
+    padding-top: 50px;
+}
+.half-bg-right{
+    width:90%;
+}
+
+
+/************************************
+##3
+*************************************/
+.section-4 .section li strong{
+        text-transform: uppercase; 
+}
+.section-4 ul.section {
+    float: left;
+    width: 100%;
+    padding: 10px 20px;
+    margin: 0;
+    text-align: center;
+}
+
+.section-4 .section li {
+    float: left;
+    padding: 0;
+    margin: 0;
+    width: 100%;
+    list-style: none;
+}
+
+.section-4 .section li a {
+    font-size: 12px;
+    color: #fff;
+}
+
+.section-4 .section li.left {
+    float: none;
+    width: 65px;
+    color: #13bfb1;
+    font-size: 40px;
+    margin: 0 auto;
+}
+
+/************************************
+##4
+*************************************/
+.section-5-box-text-cont {
+    padding: 30px;
+    background: #fff;
+    max-width: 50%;
+    margin: 100px 0;
+    border-radius:15px;
+}
+.section-5-box-text-cont h2,
+.section-5-box-text-cont p {
+    color: #333;
+    margin-bottom: 20px;
+}
+
+/************************************
+##5
+*************************************/
+
+.portfolioFilter a {
+    color: #13bfb1;
+    border: 1px solid #13bfb1;
+    border-radius: 50px;
+}
+
+.portfolioFilter a.current {
+    background: #13bfb1;
+}
+
+.portfolioFilter a:hover {
+    color: #fff;
+    background: #13bfb1;
+}
+
+.portfolioContainer a img {
+    margin: 0 auto;
+}
+
+.isotope,
+.isotope .isotope-item {
+    margin-bottom:15px;
+}
+
+.isotope-image-work .overlay {
+    top: 0;
+}
+
+
+
+.overlay  h4 {
+    color: #fff;
+    text-align: center;
+    width: 100%;
+    margin-bottom:15px;
+}
+
+.isotope-image-work .text {
+    color: white;
+    font-size: 20px;
+    position: absolute;
+    top: 50%;
+    width:100%;
+    transform: translate(0, -50%);
+    -ms-transform: translate(0, -50%);
+    left:0;
+}
+
+
+.test-work {
+    border-radius:10px;
+}
+
+/************************************
+##6
+*************************************/
+
+.testimonial-wrapper {
+    background-color: #fff!important;
+    padding: 30px;
+    border-radius: 10px;;
+}
+
+.testimonial-wrapper .text-white {
+    color: #333;
+}
+.bh-testimonial.owl-carousel .owl-item img {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+}
+
+/************************************
+##7
+*************************************/
+.front-blog-date .publish-date {
+    background: #13bfb1;
+    color: #fff;
+}
+.front-blog-date .publish-month{
+    color:#13bfb1;
+}
+.fornt-blog-title-cat i{
+    margin-right:3px;    
+}
+.section-contact-full {
+    background: #13bfb1;
+}
+a.readmore {
+    float: left;
+    margin-top: 5px;
+    color: #6a6a6a;
+}
+a.readmore:hover {
+    color: #13bfb1;
+}
+/************************************
+##8
+*************************************/
+.scrollup {
+     background: #13bfb1;
+}
+
+/************************************
+##9
+*************************************/
+@media screen and (max-width: 767px){
+    .section-5-box-text-cont {
+        max-width: 100%;
+        margin: 20px 0;
+    }
+}

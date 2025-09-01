@@ -1,0 +1,35 @@
+<wpml-config>
+
+    <custom-types>
+        
+		<custom-type translate="1">un-portfolio</custom-type>
+        <custom-type translate="1">un-sections</custom-type>
+		<custom-type translate="1">un-sidebars</custom-type>
+		
+    </custom-types> 
+	   
+    <taxonomies>
+       
+	   <taxonomy translate="1">un-portfolio-categories</taxonomy>
+	   
+    </taxonomies>  
+	  
+    <admin-texts>
+	
+        <key name="un_options">
+            
+			<key name="help_support_info" />
+			<key name="copy" />
+			<key name="home_info" />
+			<key name="home_title" />
+			<key name="home_desc" />
+			<key name="home_keys" />		
+			<key name="page_keys" />
+			
+        </key>
+		
+    </admin-texts>    
+
+</wpml-config>
+
+

@@ -1,0 +1,2 @@
+[14-Aug-2024 20:12:55 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 229729 bytes) in /home/njtzce2m03kz/public_html/oaxaca/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/utils.php on line 479
+[28-Oct-2024 02:16:59 UTC] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 206706 bytes) in /home/njtzce2m03kz/public_html/oaxaca/wp-content/plugins/wordfence/vendor/wordfence/wf-waf/src/lib/utils.php on line 479

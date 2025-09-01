@@ -1,0 +1,28 @@
+# Translation of Themes - Medical Hall in Spanish (Spain)
+# This file is distributed under the same license as the Themes - Medical Hall package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2018-12-19 06:54:20+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.4.0-alpha\n"
+"Language: es\n"
+"Project-Id-Version: Themes - Medical Hall\n"
+
+#. Description of the plugin/theme
+msgid "Medical Hall is the child theme of Better Health. This theme is suitable for any types of medical websites like hospital, nursing home, dental clinic, doctors website, medical representatives and many more. Download this free version today and start using it."
+msgstr "Medical Hall es un tema hijo de Better Health. Este tema es adecuado para cualquier tipo de sitios web médicos como los de hospitales, asilos de ancianos, clínicas dentales, sitios web de médicos, representantes de medicamentos y muchos más. Descarga esta versión gratuita y comienza a utilizarlo."
+
+#. Theme Name of the plugin/theme
+msgid "Medical Hall"
+msgstr "Medical Hall"
+
+#. Author of the plugin/theme
+msgid "rameshkhanal"
+msgstr "rameshkhanal"
+
+#. Theme URI of the plugin/theme
+msgid "https://www.pipal.ml/medical-hall/"
+msgstr "https://www.pipal.ml/medical-hall/"
